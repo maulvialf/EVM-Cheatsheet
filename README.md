@@ -15,10 +15,10 @@ sudo apt-get install solc
 ## EVM Decompiler
 
 ### Online
-https://ethervm.io/decompile
-https://etherscan.io/bytecode-decompiler
+1. https://ethervm.io/decompile
+1. https://etherscan.io/bytecode-decompiler
 
 
 ### Local
-JEB : https://www.pnfsoftware.com/jeb/evm
-Binary ninja : https://github.com/crytic/ethersplay
+1. JEB : https://www.pnfsoftware.com/jeb/evm
+2. Binary ninja : https://github.com/crytic/ethersplay
