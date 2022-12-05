@@ -22,3 +22,22 @@ sudo apt-get install solc
 ### Local
 1. JEB : https://www.pnfsoftware.com/jeb/evm
 2. Binary ninja : https://github.com/crytic/ethersplay
+
+
+## Nice articles
+
+https://faraz.faith/2022-11-15-templedao-exploit-remastered/
+
+https://faraz.faith/2022-11-19-nereus-finance-flashloan-attack-analysis/
+
+https://faraz.faith/2022-11-22-sportsdao-flashloan-attack-analysis/
+
+
+## Smart Contract CTF challenges
+
+https://ethernaut.openzeppelin.com/
+Solution from faith https://github.com/farazsth98/ethernaut-solutions
+
+https://www.damnvulnerabledefi.xyz/
+Solution from faith https://github.com/farazsth98/damn-vulnerable-defi
+
